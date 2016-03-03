@@ -1,0 +1,8 @@
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\obj\Debug\DataStructures.Tests.csprojResolveAssemblyReference.cache
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.Tests.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.Tests.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\bin\Debug\DataStructures.pdb
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\obj\Debug\DataStructures.Tests.dll
+\\mac\home\Documents\Visual Studio 2015\Projects\DataStructures\DataStructures.Tests\obj\Debug\DataStructures.Tests.pdb
